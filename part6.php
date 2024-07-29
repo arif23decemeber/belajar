@@ -13,7 +13,7 @@
     <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
+        <div class="container">
             <a class="navbar-brand" href="#">Navbar</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -42,8 +42,8 @@
                 </li>
             </ul>
             <form class="d-flex">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Search</button>
+                <input class="form-control me-2 bg-dark" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-primary" type="submit">Search</button>
             </form>
             </div>
         </div>
@@ -52,22 +52,22 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-6 p-2">
-                <div class="bg-dark" style="height: 200px;">
+                <div class="bg-primary" style="height: 200px;">
 
                 </div>
             </div>
             <div class="col-md-3 col-6 p-2">
-                <div class="bg-dark" style="height: 200px;">
+                <div class="bg-primary" style="height: 200px;">
 
                 </div>
             </div>
             <div class="col-md-3 col-6 p-2">
-                <div class="bg-dark" style="height: 200px;">
+                <div class="bg-primary" style="height: 200px;">
 
                 </div>
             </div>
             <div class="col-md-3 col-6 p-2">
-                <div class="bg-dark" style="height: 200px;">
+                <div class="bg-primary" style="height: 200px;">
 
                 </div>
             </div>
